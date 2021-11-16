@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#about{
+    background-color: cyan;
+}
+#reading{
+    background-color:orangered;
+}
+#favbook{
+    background-color: lime;
+}
+#wiki{
+    background-color: yellow;
+}
